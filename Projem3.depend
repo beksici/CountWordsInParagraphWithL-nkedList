@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1609866161 source:c:\users\evolutýon\desktop\3.sinif 1.dÖnem\prolab\proje 3\proje3\projem3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<locale.h>
+
