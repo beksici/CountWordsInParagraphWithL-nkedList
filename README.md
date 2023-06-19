@@ -1,7 +1,5 @@
-Kocaeli Üniversitesi
 
-
-|<p>Bilgisayar Mühendisliği Bölümü </p><p>Programlama Laboratuvarı I</p><p>Bağlı Liste ile Kelime Sayma</p><p>Bünyamin Ekşici</p><p>170201014@kocaeli.edu.tr</p>|
+|<p>Count Words in Paragraph Using Linked List (Bağlı Liste ile Kelime Sayma)</p><p>Bünyamin Ekşici</p><p>170201014@kocaeli.edu.tr</p><p>Bilgisayar Mühendisliği Bölümü </p>|
 | :-: |
 
 
